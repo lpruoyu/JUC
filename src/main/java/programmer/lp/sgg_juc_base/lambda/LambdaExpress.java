@@ -1,8 +1,7 @@
 package programmer.lp.sgg_juc_base.lambda;
 
 /*
-Lambda：
-拷贝小括号    写死右箭头    落地大括号
+Lambda口诀：拷贝小括号    写死右箭头    落地大括号
  */
 
 @FunctionalInterface
